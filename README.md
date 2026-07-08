@@ -3,9 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,45:302B63,75:5B21B6,100:312E81&text=Joaqu%C3%ADn%20Jessua%20Urbano&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Product-Focused%20Developer%20%E2%80%A2%20AI%20Learner&descAlignY=58&descSize=18&animation=fadeIn" alt="Joaquín Jessua Urbano Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=Engineering+software+with+purpose+and+measurable+impact.;Building+mobile%2C+database%2C+full-stack%2C+and+AI-powered+products.;Turning+complex+problems+into+clear%2C+scalable+experiences." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=Engineering+software+with+purpose;Building+mobile%2C+database%2C+full-stack%2C+and+AI-powered+products;If+you+can+imagine+it,+you+can+code+it%2C+scalable+experiences" alt="Typing Animation" />
 </a>
-
+<br />
+<br />
 <br />
 
 ![SAIT](https://img.shields.io/badge/SAIT-Software_Development-5B21B6?style=flat-square&logoColor=white)
